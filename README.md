@@ -3,8 +3,10 @@ Ce repository servira à retranscrire un résumé de mon autoformation au cours 
 ====================================================================================================
 
 CHECKLIST :
-~ Flexbox Froggy :
+By Codepip : Suivez ce lien pour voir mon profil public : https://codepip.com/user/SLENDR/
+~ Flexbox Froggy : V*
 ~ Grid Garden :
+
 ~ Fluke Out :
 ~ Code Kombat (JS) :
 
@@ -17,3 +19,4 @@ CHECKLIST :
 
 ====================================================================================================
 Ce fichier sera mis à jour au gré de ma progression au sein de la CHECKLIST.
+* : Un "V" signifie "Validé".
