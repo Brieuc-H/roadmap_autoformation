@@ -5,7 +5,7 @@ Ce repository servira à retranscrire un résumé de mon autoformation au cours 
 CHECKLIST :
 By Codepip : Suivez ce lien pour voir mon profil public : https://codepip.com/user/SLENDR/
 ~ Flexbox Froggy : V*
-~ Grid Garden :
+~ Grid Garden : V
 
 ~ Fluke Out :
 ~ Code Kombat (JS) :
