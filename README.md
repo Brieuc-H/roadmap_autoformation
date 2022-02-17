@@ -7,13 +7,13 @@ By Codepip : Suivez ce lien pour voir mon profil public : https://codepip.com/us
 ~ Flexbox Froggy : V*
 ~ Grid Garden : V
 
-~ Fluke Out :
-~ Code Kombat (JS) :
+~ CSS Diner (Flukeout) : V
+~ Code Combat (JS) :
 
 ~ Sololearn (HTML/CSS/JS/Web/Java) : ... en cours...
 ~ OpenClassrooms : ... en cours...
 ~ Linkedin : ... en cours...
-~ Pix :
+~ Pix : V
 
 ~ Portfolio : ... en cours...
 
